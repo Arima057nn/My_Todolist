@@ -1,8 +1,12 @@
-import styles from "./App1.module.css";
+import { Stack } from "@mui/material";
 import Todo from "./Todo";
 
 function App() {
-  return <h1 className={styles.red}>Todolist</h1>;
+  return (
+    <Stack direction="row" justifyContent="center">
+      <Todo />
+    </Stack>
+  );
 }
 
 export default App;
