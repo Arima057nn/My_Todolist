@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-todo/static/css/main.8ca9d0e7.css",
+    "main.js": "/my-todo/static/js/main.97ef6960.js",
+    "static/js/787.ee3c4dbe.chunk.js": "/my-todo/static/js/787.ee3c4dbe.chunk.js",
+    "static/media/learning.jpg": "/my-todo/static/media/learning.49845098cf7b9034b1b7.jpg",
+    "static/media/montez-all-400-normal.woff": "/my-todo/static/media/montez-all-400-normal.79b5dfe53039dd35baa7.woff",
+    "static/media/montez-latin-400-normal.woff2": "/my-todo/static/media/montez-latin-400-normal.e3ec19d3e32d3976b075.woff2",
+    "index.html": "/my-todo/index.html",
+    "main.8ca9d0e7.css.map": "/my-todo/static/css/main.8ca9d0e7.css.map",
+    "main.97ef6960.js.map": "/my-todo/static/js/main.97ef6960.js.map",
+    "787.ee3c4dbe.chunk.js.map": "/my-todo/static/js/787.ee3c4dbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ca9d0e7.css",
+    "static/js/main.97ef6960.js"
+  ]
+}
