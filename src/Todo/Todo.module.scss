@@ -1,11 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Merienda+One&family=Montez&family=Montserrat:wght@300;400;500;600;700;800;900&family=Roboto:wght@300;400;500;700;900&display=swap");
+
 .red {
-  color: red;
+  color: #7d879c;
 }
 
 .blue {
-  color: blue;
+  color: #333;
 }
 
-.ulli {
+.title {
+  font-size: 56px;
+  // font-size: 3em;
+  font-family: "Montez";
+}
+
+.list {
   list-style: none;
+  display: flex;
+  flex-direction: column;
+  padding-right: 40px;
 }
